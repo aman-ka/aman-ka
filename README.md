@@ -76,11 +76,11 @@ Full-stack developer with a passion for crafting clean, user-centric solutions. 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-ka&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=aman-ka&theme=radical&hide_border=true&border_radius=10&background=0D1117&ring=FB8C00&fire=FB8C00&currStreakLabel=FB8C00" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aman-ka&theme=radical&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aman-ka&theme=radical&row=1&column=6&margin-w=15&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
