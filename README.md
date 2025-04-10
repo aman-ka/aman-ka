@@ -2,50 +2,46 @@
 
 <div align="center">
   <img src="Untitled design (2).png" alt="That's me!" width="100%" style="border-radius: 10px"/>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=aman-ka&style=for-the-badge&color=ff2929&label=PROFILE+VIEWS)
 </div>
 
-## 💫 The Story So Far...
+<p align="center">
+  <a href="https://www.linkedin.com/in/aman-ka">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/aman-ka">
+    <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+## 💫 About Me
+
+```typescript
+const aman = {
+    role: "Full Stack Developer",
+    code: ["JavaScript", "TypeScript", "Java"],
+    askMeAbout: ["Web Dev", "Tech", "Architecture"],
+    currentFocus: "Building Scalable Microservices",
+    funFact: "I debug with console.log and refuse to admit it!"
+};
+```
 
 Full-stack developer with a passion for crafting clean, user-centric solutions. I specialize in turning complex business problems into elegant applications. Currently exploring AI/ML integrations and building scalable web architectures. Open to collaborate on innovative projects that push boundaries! 🚀
 
-## 🎯 Key Achievements
+## 🔭 Currently Working On
 
-<div align="left">
-  
-  ```typescript
-  const achievements = {
-    automation: {
-      impact: "Eliminated 100% manual efforts",
-      result: "50+ hours saved weekly",
-      tech: "Node.js, Excel-to-JSON conversion"
-    },
-    architecture: {
-      impact: "Monolith to Microservices transformation",
-      result: "40% improved scalability",
-      tech: "Node.js, Microservices Architecture"
-    },
-    innovation: {
-      impact: "Chatbot development",
-      result: "10x increase in return users",
-      tech: "Node.js, Chatbot APIs"
-    },
-    integration: {
-      impact: "Cross-platform functionality",
-      result: "Seamless MS Teams & Zoom integration",
-      tech: "Web APIs, Platform SDKs"
-    },
-    optimization: {
-      impact: "Enhanced cron services",
-      result: "30% increase in user interactions",
-      tech: "Node.js, Cron Jobs"
-    }
-  };
-  ```
-</div>
+- 🚀 Building scalable microservices architectures
+- 🤖 Exploring AI/ML integrations in web applications
+- 📚 Learning advanced system design patterns
+- 🌱 Contributing to open source projects
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
+<details>
+<summary>Languages & Frameworks</summary>
+<br>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -54,33 +50,49 @@ Full-stack developer with a passion for crafting clean, user-centric solutions. 
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+</details>
 
-### Databases & Caching
+<details>
+<summary>Databases & Caching</summary>
+<br>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![CosmosDB](https://img.shields.io/badge/CosmosDB-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+</details>
 
-### DevOps & Tools
+<details>
+<summary>DevOps & Tools</summary>
+<br>
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Microservices](https://img.shields.io/badge/Microservices-FF4088?style=for-the-badge&logo=micro:bit&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+</details>
 
-## 🤝 Let's Connect!
+## 📊 GitHub Stats
 
-I'm always excited to meet new people and collaborate on interesting projects! You can find me on:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-ka&theme=radical" alt="GitHub Streak Stats" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-ka)
-
-## 🏆 GitHub Trophies
-<div align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aman-ka&theme=radical&row=1&column=6" alt="GitHub Trophies" />
-</div>
+</p>
 
 ---
 
 <div align="center">
-  <i>Remember: Every great developer you know got there by solving problems they were unqualified to solve until they actually did it! 🚀</i>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aman-ka/aman-ka/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aman-ka/aman-ka/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aman-ka/aman-ka/output/github-snake.svg" />
+  </picture>
+</div>
+
+<div align="center">
+  <i>⚡ Fun fact: The first computer bug was an actual bug 🐛</i>
 </div>
