@@ -58,7 +58,20 @@
 
 ---
 
-<!-- Snake animation -->
+<h2 align="center">🐍 Watch my contributions get eaten!</h2>
+
+<!-- Neon Snake animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aman-ka/aman-ka/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aman-ka/aman-ka/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aman-ka/aman-ka/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<!-- Alternative: Neon GIF version -->
+<!-- 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aman-ka/aman-ka/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/aman-ka/aman-ka/output/github-contribution-grid-snake-neon.gif" alt="Neon Snake animation" />
 </p>
+-->
