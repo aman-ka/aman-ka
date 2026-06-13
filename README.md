@@ -1,70 +1,119 @@
-<div style="background-color: #000000; padding: 20px; margin: 0; min-height: 100vh;">
+<div style="background-color: #0d1117; padding: 24px; margin: 0;">
 
 <div align="center">
-  <h1 style="color: #00ff88; text-shadow: 0 0 5px #00ff88, 0 0 10px #00ff88; font-size: 3em; margin: 20px 0;">
-    Hey there! I'm Aman Kanojiya 👋
-  </h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=1f6feb:0d1117&height=100&section=header&text=Aman%20Kanojiya&fontSize=32&fontColor=ffffff&animation=twinkling" alt="Header"/>
+</div>
+
+<div align="center">
+  <p style="color: #8b949e; font-size: 1.05em; max-width: 720px; margin: 12px auto 4px;">
+    AI-First Full Stack Engineer
+  </p>
+  <p style="color: #c9d1d9; font-size: 0.95em; max-width: 720px; margin: 0 auto 16px;">
+    Enterprise platforms, LLM integrations, and scalable full-stack systems
+  </p>
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%F0%9F%9A%80;Frontend+%7C+Backend+%7C+DevOps+;React+%7C+Next.js+%7C+Vue.js+%7C+Angular;HTML5+%7C+CSS3+%7C+JavaScript+%7C+TypeScript;Spring+Boot+%7C+Node.js+%7C+Django;AWS+%7C+Azure+%7C+Google+Cloud+%E2%98%81%EF%B8%8F;Microservices+%7C+System+Design+%F0%9F%8F%97%EF%B8%8F;Docker+%7C+Kubernetes+%7C+CI%2FCD;Responsive+Web+Design+%E2%9C%A8;Database+Design+%7C+APIs+%7C+Scaling;UI%2FUX+enthusiast+%F0%9F%8E%A8;Always+learning+new+technologies!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=AI-First+Full+Stack+Engineer;Enterprise+platforms+%7C+LLM+integrations;Next.js+15+%7C+React+19+%7C+NestJS+%7C+TypeScript;Claude+%7C+OpenAI+%7C+Prompt+Engineering;Stripe+%7C+TaxCloud+%7C+Microsoft+Teams;PostgreSQL+%7C+Prisma+%7C+Redis+%7C+MongoDB;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;Microservices+%7C+GraphQL+%7C+REST+APIs;4%2B+years+building+production+SaaS" alt="Typing SVG" />
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  <img src="Untitled design (2).png" alt="Aman Kanojiya" width="220" height="220" style="border-radius: 50%; border: 3px solid #30363d;"/>
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=aman-ka&style=flat-square&color=1f6feb&labelColor=21262d&label=PROFILE+VIEWS)
 </div>
 
 <div align="center">
-  <img src="Untitled design (2).png" alt="That's me!" width="260" height="260" style="border-radius: 50%; border: 4px solid #00ff88; box-shadow: 0 0 20px #00ff88;"/>
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=aman-ka&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS)
-</div>
-
-<div align="center">
+  <a href="mailto:aman-ka@outlook.com">
+    <img src="https://img.shields.io/badge/Email-aman--ka@outlook.com-21262d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://www.linkedin.com/in/aman-ka">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-00ff88?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/aman-ka">
-    <img src="https://img.shields.io/badge/GitHub-Follow-00ff88?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-21262d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
+<br/>
 
-<h2 align="center" style="color: #00ff88; text-shadow: 0 0 10px #00ff88; margin: 30px 0;">💫 About Me</h2>
+<h2 align="center" style="color: #e6edf3; font-weight: 600; margin: 32px 0 16px; padding-bottom: 8px; border-bottom: 1px solid #30363d;">About Me</h2>
+
+<div align="center" style="color: #c9d1d9; max-width: 760px; margin: 0 auto 24px; line-height: 1.7;">
+  <p>
+    <strong style="color: #e6edf3;">Software Development Engineer (Full Stack)</strong> at <strong style="color: #e6edf3;">6DegreesIT</strong> — 4+ years of production work across enterprise e-commerce, AI wellbeing, edtech, and sales simulation.
+    I own systems end-to-end: problem discovery, architecture, development, deployment, and iteration — with deep hands-on work in <strong style="color: #58a6ff;">AI/LLM integration</strong>, <strong style="color: #58a6ff;">microservices</strong>, payments, and enterprise SaaS on <strong style="color: #58a6ff;">AWS</strong> and <strong style="color: #58a6ff;">Azure</strong>.
+  </p>
+  <p style="color: #8b949e;">
+    Open to full-time roles, contract work, and AI product engineering opportunities. Based in India.
+  </p>
+</div>
+
+<h3 align="center" style="color: #e6edf3; font-weight: 600; margin: 28px 0 14px;">Tech Stack</h3>
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,nestjs,nodejs,express,django,spring,graphql,python,java,postgres,prisma,mysql,mongodb,redis,docker,kubernetes,aws,azure,kafka,git&perline=8&theme=dark" alt="Tech Stack"/>
+</div>
 
-<!-- Languages -->
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
+<br/>
 
-<!-- Frameworks -->
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<h2 align="center" style="color: #e6edf3; font-weight: 600; margin: 32px 0 16px; padding-bottom: 8px; border-bottom: 1px solid #30363d;">Production Work</h2>
 
-<!-- Databases -->
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+<div align="center" style="color: #c9d1d9; max-width: 820px; margin: 0 auto; text-align: left; line-height: 1.7;">
 
-<!-- Tools -->
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<p style="text-align: center; color: #8b949e; margin-bottom: 24px;">
+  4+ years shipping and operating production systems — from architecture and APIs to deployment, scaling, and iteration.
+</p>
+
+<h3 style="color: #58a6ff; font-weight: 600; font-size: 1.05em; margin-top: 20px;">Full-stack platform architecture</h3>
+<ul style="color: #c9d1d9;">
+  <li>Multi-app workspaces: SSR storefronts, admin/vendor portals, and modular <strong style="color: #e6edf3;">NestJS</strong> APIs on <strong style="color: #e6edf3;">Next.js 15 / React 19</strong></li>
+  <li>Server-authoritative business logic with <strong style="color: #e6edf3;">PostgreSQL + Prisma</strong>, API-layer <strong style="color: #e6edf3;">RBAC</strong> (RolesGuard), and shared domain services</li>
+  <li>CMS &amp; content ops: page studio with blocks/SEO, S3-backed media, runtime branding, and DB-driven transactional email via <strong style="color: #e6edf3;">Resend</strong></li>
+  <li>Catalog &amp; fulfillment tooling: inventory, pricing, replenishment POs, order routing, and admin operations dashboards</li>
+</ul>
+
+<h3 style="color: #58a6ff; font-weight: 600; font-size: 1.05em; margin-top: 20px;">Payments, tax &amp; commerce flows</h3>
+<ul style="color: #c9d1d9;">
+  <li>End-to-end <strong style="color: #e6edf3;">Stripe</strong> checkout: PaymentIntents, Elements, webhooks, saved payment methods, and order finalization</li>
+  <li>Server-side amount/tax reconciliation — no client-trusted totals</li>
+  <li><strong style="color: #e6edf3;">TaxCloud</strong> integration for US sales tax: live estimates, address validation, and clear API/UI error handling</li>
+</ul>
+
+<h3 style="color: #58a6ff; font-weight: 600; font-size: 1.05em; margin-top: 20px;">AI / LLM systems in production</h3>
+<ul style="color: #c9d1d9;">
+  <li><strong style="color: #e6edf3;">Claude API</strong> coaching flows with context-aware prompts and <strong style="color: #e6edf3;">Redis</strong> session management</li>
+  <li><strong style="color: #e6edf3;">OpenAI</strong> Chat Completions &amp; <strong style="color: #e6edf3;">Assistants API v2</strong> for recommendations, transcript QA, and structured JSON outputs</li>
+  <li>Conversational AI, speech-to-text mood analysis, and real-time simulation with low-latency scoring &amp; feedback loops</li>
+  <li>Prompt engineering, retry/deduplication pipelines, and admin analytics over AI-generated outputs</li>
+</ul>
+
+<h3 style="color: #58a6ff; font-weight: 600; font-size: 1.05em; margin-top: 20px;">Microservices, data &amp; APIs</h3>
+<ul style="color: #c9d1d9;">
+  <li><strong style="color: #e6edf3;">12+ Node.js microservices</strong> on <strong style="color: #e6edf3;">Azure Kubernetes (AKS)</strong> with Service Bus and <strong style="color: #e6edf3;">KEDA</strong> autoscaling</li>
+  <li><strong style="color: #e6edf3;">GraphQL</strong> and <strong style="color: #e6edf3;">REST</strong> APIs; <strong style="color: #e6edf3;">PostgreSQL</strong>, <strong style="color: #e6edf3;">MongoDB</strong>, <strong style="color: #e6edf3;">DynamoDB</strong>, and <strong style="color: #e6edf3;">Redis</strong> in polyglot data pipelines</li>
+  <li>Background processing with <strong style="color: #e6edf3;">BullMQ</strong> workers; concurrent user simulations and KPI measurement APIs at scale</li>
+</ul>
+
+<h3 style="color: #58a6ff; font-weight: 600; font-size: 1.05em; margin-top: 20px;">Cloud, DevOps &amp; enterprise integrations</h3>
+<ul style="color: #c9d1d9;">
+  <li><strong style="color: #e6edf3;">AWS</strong>: Amplify, ECS Fargate, RDS, ElastiCache, S3/CloudFront — plus <strong style="color: #e6edf3;">Azure</strong> AKS for multi-cloud production workloads</li>
+  <li><strong style="color: #e6edf3;">Microsoft Teams</strong> embedding for enterprise SaaS; Bot Framework for in-context product delivery</li>
+  <li><strong style="color: #e6edf3;">Docker</strong>, <strong style="color: #e6edf3;">Kubernetes</strong>, <strong style="color: #e6edf3;">Kafka</strong>, and CI/CD for reliable deploy-and-operate workflows</li>
+</ul>
 
 </div>
 
+<br/>
+
+<h2 align="center" style="color: #e6edf3; font-weight: 600; margin: 32px 0 16px; padding-bottom: 8px; border-bottom: 1px solid #30363d;">GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=aman-ka&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=e6edf3&dates=c9d1d9" alt="Streak Stats"/>
+</div>
+
+<br/>
 
 <div align="center">
   <picture>
@@ -73,26 +122,15 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aman-ka/aman-ka/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aman-ka&theme=radical" alt="Profile Summary"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aman-ka&bg_color=0d1117&color=58a6ff&line=1f6feb&point=e6edf3&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aman-ka&bg_color=000000&color=00ff88&line=00ccff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph"/>
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/00ff88/aman-ka" alt="GitHub Contribution Chart"/>
-</div>
-
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Dev Quote"/>
-</div>
-
-<!-- Animated Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=000000&animation=fadeIn&fontAlignY=70" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=72" alt="Footer"/>
 </div>
 
 </div>
