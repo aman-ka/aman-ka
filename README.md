@@ -46,7 +46,55 @@ Enterprise platforms, LLM integrations, and scalable full-stack systems
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,nestjs,nodejs,express,django,spring,graphql,python,java,postgres,prisma,mysql,mongodb,redis,docker,kubernetes,aws,azure,kafka,git&perline=8" alt="Tech Stack"/>
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,java,python&perline=4" alt="Languages"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&perline=4" alt="Frontend"/>
+<img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA"/>
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,spring,graphql&perline=6" alt="Backend"/>
+<img src="https://img.shields.io/badge/REST_APIs-24292f?style=flat-square" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/Microservices-24292f?style=flat-square" alt="Microservices"/>
+
+**AI / LLM**
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Claude"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-24292f?style=flat-square" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/Assistants_API-412991?style=flat-square&logo=openai&logoColor=white" alt="Assistants API"/>
+<img src="https://img.shields.io/badge/Conversational_AI-24292f?style=flat-square" alt="Conversational AI"/>
+<img src="https://img.shields.io/badge/Speech--to--Text-24292f?style=flat-square" alt="Speech-to-Text"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks"/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,prisma,mysql,mongodb,redis,dynamodb,cassandra&perline=7" alt="Databases"/>
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,kafka,githubactions&perline=6" alt="Cloud & DevOps"/>
+<img src="https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazon-ecs&logoColor=white" alt="ECS"/>
+<img src="https://img.shields.io/badge/CI%2FCD-24292f?style=flat-square" alt="CI/CD"/>
+
+**Integrations**
+
+<img src="https://skillicons.dev/icons?i=teams,stripe&perline=2" alt="Integrations"/>
+<img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" alt="Zoom"/>
+<img src="https://img.shields.io/badge/Bot_Framework-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Bot Framework"/>
+<img src="https://img.shields.io/badge/TaxCloud-24292f?style=flat-square" alt="TaxCloud"/>
+
+**Testing & Tools**
+
+<img src="https://skillicons.dev/icons?i=jest,eslint,github&perline=3" alt="Testing & Tools"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"/>
+
 </div>
 
 ---
