@@ -37,7 +37,7 @@ Enterprise platforms, LLM integrations, and scalable full-stack systems
 
 ## About Me
 
-**Software Development Engineer (Full Stack)** at **6DegreesIT** — production work across enterprise e-commerce, AI wellbeing, edtech, and sales simulation. I own systems end-to-end: problem discovery, architecture, development, deployment, and iteration — with deep hands-on work in **AI/LLM integration**, **microservices**, payments, and enterprise SaaS on **AWS** and **Azure**.
+**Software Development Engineer (Full Stack)** — production work across enterprise e-commerce, AI wellbeing, edtech, and sales simulation. I own systems end-to-end: problem discovery, architecture, development, deployment, and iteration — with deep hands-on work in **AI/LLM integration**, **microservices**, payments, and enterprise SaaS on **AWS** and **Azure**.
 
 *Open to full-time roles, contract work, and AI product engineering opportunities. Based in India.*
 
